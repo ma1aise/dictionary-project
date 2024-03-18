@@ -1,0 +1,14 @@
+body {
+  background-image: url(../public/background-image.png);
+}
+
+.App-header {
+  margin: 30px 0;
+}
+
+.App-logo {
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
