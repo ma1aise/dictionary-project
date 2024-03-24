@@ -1,0 +1,8 @@
+.Dictionary .search-input {
+  display: block;
+  color: #666;
+  font-size: 18px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 100%;
+}
